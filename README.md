@@ -6,9 +6,13 @@ My mission in life is to be part of something bigger than myself and to **serve 
 
 ### 📫 How to reach me: ...
 
-Check out [my website](https://www.imfaisalkhalid.com/)
-Follow [my Twitter](https://twitter.com/ImFaisalKhalid)
-Connect with me [on LinkedIn](https://www.linkedin.com/in/Imfaisalkhalid/)
+- Check out [my website](https://www.imfaisalkhalid.com/)
+- Follow [my Twitter](https://twitter.com/ImFaisalKhalid)
+- Connect with me [on LinkedIn](https://www.linkedin.com/in/Imfaisalkhalid/)
+
+### Want to collaborate?
+
+I love working on meaningful projects that have an impact! Feel free to reach out if you want to collaborate on something fun!
 
 <!--
 **ImFaisalKhalid/ImFaisalKhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
