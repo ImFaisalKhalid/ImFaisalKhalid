@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 Hi, I am Faisal Khalid. I am currently a final year student at the University of Illinois at Urbana-Champaign majoring in Computer Science and Economics. **I am passionate about software development, computer security, and networks.** I love nothing more than challenging myself by solving tough problems and deeply understanding the technological world around me.
 
