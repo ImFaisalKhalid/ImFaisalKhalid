@@ -9,6 +9,7 @@ My mission in life is to be part of something bigger than myself and to **serve 
 - Check out [my website](https://www.imfaisalkhalid.com/)
 - Follow [my Twitter](https://twitter.com/ImFaisalKhalid)
 - Connect with me [on LinkedIn](https://www.linkedin.com/in/Imfaisalkhalid/)
+- Check out [my YouTube](https://www.youtube.com/channel/UCOlOtB63wyf0bxZDpMZurwA)
 
 ### Want to collaborate?
 
